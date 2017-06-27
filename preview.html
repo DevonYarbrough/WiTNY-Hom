@@ -8,22 +8,18 @@
 
 	<script type="text/javascript" src="scripts/biomp.js"></script>
 
-	
-	<link href="styles.css" rel="stylesheet"> 
 	<title>HŌM</title>
 </head>
 
 <body class="container">
-<div id="preview">
-	<div class="row">
-		<h1 class="text-center"> HŌM </h1>
-	</div>
-	<div class="row text-center">
-		<a href="signup.html" class="btn btn-primary btn-large"> Sign In </a>
-	</div>
-	<div class="row text-center margin-horizontal-small">
-		<a href="signup.html" class="btn btn-primary btn-large"> Register </a>
-	</div>
-</div>
+<div id="preview"></div>
+
+<script>
+bioMp(document.getElementById('preview'), {
+    url: 'index.html',
+    view: 'front',
+    image: 'scripts/images/iphone6_front_gold.png'
+});
+</script>
 </body> 
 </html>
