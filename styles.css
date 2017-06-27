@@ -1,0 +1,19 @@
+
+
+html {
+	width: 100%;
+}
+
+body {
+    background-image: url(images/background.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+	color: white;
+}
+
+.container {
+	width: 100%;
+}
