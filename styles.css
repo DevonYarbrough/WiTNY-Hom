@@ -43,6 +43,7 @@ h1 {
     display: center;
     align-items: center; 
 	width: 100%;
+	float: none;
 }
 
 
@@ -74,4 +75,16 @@ h2, p {
 
 img {
 	border-radius: 10px;
+}
+
+#preview, #preview2, #preview3 {
+	padding-left: 0px;
+}
+
+.red {
+	color: red;
+}
+
+blockquote {
+	border-left: none;
 }
