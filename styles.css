@@ -35,6 +35,7 @@ html {
 h1 {
 	color: white;
 	font-size: 60px;
+	font-family: Shrikhand;
 }
 
 .container {
@@ -65,4 +66,9 @@ a {
 
 .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
     border-radius: 10px;
+}
+
+h2, p {
+	font-family: News Cycle;
+	text-align: center;
 }
