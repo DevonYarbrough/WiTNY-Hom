@@ -71,3 +71,7 @@ a {
 h2, p {
 	font-family: News Cycle;
 }
+
+img {
+	border-radius: 10px;
+}
