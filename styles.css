@@ -99,6 +99,14 @@ button, .btn {
 	padding-left: 0px;
 }
 
+.tab-pane {
+	padding:20px;
+}
+
 .padding-left {
 	padding: 40px;
+}
+
+.absolute {
+	position: absolute;
 }
