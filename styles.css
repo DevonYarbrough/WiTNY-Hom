@@ -20,5 +20,10 @@ h1 {
 
 .top-buffer { margin-top:20px; }
 
-.tab-pane {
-}
+.tab-content {
+    background: white;
+    height: 600px;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius:10px;
+ }
